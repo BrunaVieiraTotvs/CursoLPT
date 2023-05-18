@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{66EADD58-B077-4E83-8651-B6BD7246FCE1}">
+	<children>
+		<child name="Curso" key="{9DC69FA9-90E8-42F8-9A0A-0A4F36074159}" path="Curso\Curso.mds" />
+	</children>
+	<testItems key="{ACE4EF57-D15C-44F8-8AD6-DD3D03E37B94}">
+		<children>
+			<testItem key="{9DC69FA9-90E8-42F8-9A0A-0A4F36074159}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{65006DFC-2642-4084-9E80-E9200C7C11B9}">
+		<data Version="3" />
+	</variables>
+	<analysis key="{6D672773-1E55-4521-8FC4-FE8B3A606064}" />
+	<scc key="{C900492B-D218-429C-9AA0-264B7D78CA88}" name="Git Plugin">
+		<data />
+	</scc>
+	<extender key="{1A3FC97E-9A66-4716-B166-35D10B4146E0}">
+		<CrossBrowserTesting Enable="False" />
+	</extender>
+</Root>

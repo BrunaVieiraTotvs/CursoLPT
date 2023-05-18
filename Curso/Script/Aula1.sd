@@ -1,0 +1,4 @@
+﻿procedure boasPraticas;
+begin   
+  Log.message('Olá Mundo!');
+end;
